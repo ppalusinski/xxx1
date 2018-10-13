@@ -4,7 +4,7 @@ public class figura {
 	protected String nazwa; public Figura(String nazwa) {
 	    this.nazwa = nazwa;
 	  }
-	String getNazwa() { return nazwa;
+	String getNazwa() { return nazwa; //nic nie lumim
 	}
 	@Override
 	  public String toString() {
