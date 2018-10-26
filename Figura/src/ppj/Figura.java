@@ -1,6 +1,6 @@
-package ppj.ppj;
+package ppj;
 
-public class figura {
+public class Figura {
 	protected String nazwa; public Figura(String nazwa) {
 	    this.nazwa = nazwa;
 	  }
